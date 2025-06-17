@@ -4,7 +4,7 @@
 
 Welcome to the official GitHub of **St. Anthony of Padua Catholic Church** – home to spiritual growth, community-building, and occasionally chaotic youth ministry coding experiments.
 
-This is where our **church tech stack** lives: websites, tools, and whatever else we dream up (usually at 11PM, with boba).
+This is where our **church tech stack** lives: websites, tools, and whatever else we dream up (usually at 11PM, with diet coke).
 
 ---
 
